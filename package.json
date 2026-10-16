@@ -1,0 +1,16 @@
+{
+  "name": "bth012-2026-library",
+  "version": "1.0.0",
+  "description": "Library example similar to first assignment",
+  "license": "ISC",
+  "author": "PO & co",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "vitest": "^5.0.5"
+  }
+}
